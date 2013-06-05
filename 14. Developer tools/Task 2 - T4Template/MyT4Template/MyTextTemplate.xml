@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" ?>
+<project>
+	<file>App.config</file>
+	<file>MyT4Template.csproj</file>
+	<file>MyTextTemplate.tt</file>
+	<file>MyTextTemplate.xml</file>
+	<file>Program.cs</file>
+</project>
